@@ -8,18 +8,26 @@ const photos = [
   },
   {
     id: 2,
-    title: "City Lights at Night",
+    title: "Beach",
     price: 59.99,
 	category: "Landscapes",
     src: "/photos/Beach.jpg",
   },
   {
     id: 3,
-    title: "Ocean Wave Crash",
+    title: "Two Birds",
     price: 39.99,
 	category: "Birds",
     src: "/photos/TwoBirds.jpg",
   },
+{
+    id: 4,
+    title: "Pied Shag",
+    price: 120,
+	category: "Birds",
+    src: "/photos/Pied Shag.jpg",
+  },
+
 ]
 
 export default photos
