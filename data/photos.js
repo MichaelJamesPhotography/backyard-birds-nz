@@ -27,7 +27,13 @@ const photos = [
 	category: "Birds",
     src: "/photos/Pied Shag.jpg",
   },
-
+{
+    id: 5,
+    title: "Tui",
+    price: 120,
+	category: "Birds",
+    src: "/photos/Tui.jpg",
+  },
 ]
 
 export default photos
